@@ -83,7 +83,7 @@ function Airplane(name) {
   /*
     TASK 4
     In your own words explain the four principles for the "this" keyword below:
-    1.This is definitely not that. 
+    1.
     2.
     3.
     4.

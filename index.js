@@ -18,14 +18,14 @@ function Airplane(name) {
   Airplane.prototype.land = function () {
     this.isFlying = false;
   };
-  
-  
+
+
   /*
   // 👇 COMPLETE YOUR WORK BELOW 👇
   // 👇 COMPLETE YOUR WORK BELOW 👇
   // 👇 COMPLETE YOUR WORK BELOW 👇
   */
-  
+
   /*
     TASK 1
       - Write a Person Constructor that initializes `name` and `age` from arguments.
@@ -38,17 +38,17 @@ function Airplane(name) {
       - Give instances of Person a method `.toString()`:
           + It should return a string with `name` and `age`. Example: "Mary, 50"
   */
-  
- function Person() {
-    
-  }
- 
- 
 
-  
-  
-  
-  
+ function Person(LETS GOOOOOOO) {
+
+  }
+
+
+
+
+
+
+
   /*
     TASK 2
       - Write a Car constructor that initializes `model` and `milesPerGallon` from arguments.
@@ -62,12 +62,12 @@ function Airplane(name) {
       - STRETCH: A car which runs out of `fuel` while driving can't drive any more distance:
           + The `drive` method should return a string "I ran out of fuel at x miles!" x being `odometer`.
   */
-  
+
  function Car() {
-    
+
   }
-  
-  
+
+
   /*
     TASK 3
       - Write a Baby constructor subclassing Person.
@@ -76,20 +76,20 @@ function Airplane(name) {
           + Should return a string "Playing with x", x being the favorite toy.
   */
  function Baby() {
-   
+
   }
- 
-  
-  /* 
+
+
+  /*
     TASK 4
     In your own words explain the four principles for the "this" keyword below:
-    1. 
-    2. 
-    3. 
-    4. 
+    1.
+    2.
+    3.
+    4.
   */
-  
-  
+
+
   ///////// END OF CHALLENGE /////////
 
   /* 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 Please do not modify anything below this line 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 */
@@ -99,7 +99,7 @@ function foo(){
 
 export default{
     foo,
-    Person, 
+    Person,
     Car,
     Baby
 }

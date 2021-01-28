@@ -39,7 +39,7 @@ function Airplane(name) {
           + It should return a string with `name` and `age`. Example: "Mary, 50"
   */
 
- function Person(LETS GOOOOOOO) {
+ function Person() {
 
   }
 
@@ -83,7 +83,7 @@ function Airplane(name) {
   /*
     TASK 4
     In your own words explain the four principles for the "this" keyword below:
-    1.
+    1.This is definitely not that. 
     2.
     3.
     4.
